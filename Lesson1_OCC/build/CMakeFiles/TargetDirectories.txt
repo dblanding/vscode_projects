@@ -1,0 +1,3 @@
+/home/doug/vscode_projects/Lesson1_OCC/build/CMakeFiles/rebuild_cache.dir
+/home/doug/vscode_projects/Lesson1_OCC/build/CMakeFiles/edit_cache.dir
+/home/doug/vscode_projects/Lesson1_OCC/build/CMakeFiles/Lesson_01.dir

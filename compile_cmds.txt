@@ -1,0 +1,3 @@
+gcc main.cpp -I/home/doug/occ7.4/include/opencascade -L/home/doug/occ7.4/lib -Wall -o test -lTKGeomAlgo -lTKernel -lTKTopAlgo -lTKPrim
+
+g++ main.cpp -I/home/doug/occ7.4/include/opencascade -Wl,-rpath=/home/doug/occ7.4/lib -Wall -o test -lTKGeomAlgo -lTKernel -lTKTopAlgo -lTKPrim

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doug/vscode_projects/the_c++_project/PointsDistance/src/Main.cpp
+iostream
+-
+iomanip
+-
+Point.h
+/home/doug/vscode_projects/the_c++_project/PointsDistance/src/Point.h
+
+/home/doug/vscode_projects/the_c++_project/PointsDistance/src/Point.h
+cmath
+-
+
