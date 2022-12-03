@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/doug/vscode_projects/hello/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/helloWorld.dir/main.cpp.o -c /home/doug/vscode_projects/hello/main.cpp",
-  "file": "/home/doug/vscode_projects/hello/main.cpp"
-}
-]

@@ -1,3 +1,0 @@
-/home/doug/vscode_projects/load_step_under_top_fixed/build/CMakeFiles/rebuild_cache.dir
-/home/doug/vscode_projects/load_step_under_top_fixed/build/CMakeFiles/edit_cache.dir
-/home/doug/vscode_projects/load_step_under_top_fixed/build/CMakeFiles/Step_UT.dir
