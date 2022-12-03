@@ -20,7 +20,7 @@ Subsequently saves it in .stp format, confirming the round trip.
 #include <XSControl_Writer.hxx>
 #include <XSControl_WorkSession.hxx>
 
-const char* filename = "../models/as1-oc-214.xbf";
+const char* filename = "/home/doug/Desktop/step/as1-oc-214.xbf";
 const char* save_step_file_name = "/home/doug/Desktop/round_trip.stp";
 
 
